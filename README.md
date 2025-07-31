@@ -1,5 +1,5 @@
-<h1 align="center">Hello👋, I'm Rathindra Chandra Nath</h1>
-<h3 align="center">A Professional Web-Designer & Developer</h3>
+<h1 align="center">Hi 👋, I'm Rathindra Chandra Nath</h1>
+<h3 align="center">A Professional Web Designer-Developer & Wordpress Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathindra070&label=Profile%20views&color=0e75b6&style=flat" alt="rathindra070" /> </p>
 
